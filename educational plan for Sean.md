@@ -4,4 +4,4 @@
 - [ ] Watch 7 documentaries from this list [About design](https://tilda.education/en/movies-for-designers)
 - [ ] Create a free Tilda account for a sandbox
 - [ ] Watch the  video [Getting started with Tilda](https://www.youtube.com/watch?v=2dtJi5lGebQ)
-- [ ] Look at the example of the site and find out not created yet (lauching soon) blocks: [Masha's Internet-shop](sumka-lubov.ru)
+- [ ] Look at the example of the site and find out not created yet (lauching soon) blocks: [Masha's Internet-shop](https://sumka-lubov.ru)
