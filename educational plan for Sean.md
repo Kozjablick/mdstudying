@@ -1,6 +1,6 @@
 # Plan for 4.09 - 11.09
 - [ ] Find references for Internet shops, offering bags (5 examples) and make a review of structure of main blocks in these sites
-「[![Example of the site and analytics](https://github.com/user-attachments/assets/5d0be640-cbf3-4376-93a2-ff0b01752ac4)]
+[![Example of the site and analytics](https://github.com/user-attachments/assets/5d0be640-cbf3-4376-93a2-ff0b01752ac4)
 Structure of this site
 1. Personal settings
 2. Module of authorization (Auth-page)
